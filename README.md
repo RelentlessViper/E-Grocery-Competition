@@ -5,10 +5,10 @@
 [link](https://docs.google.com/spreadsheets/d/1AW-Eba7vc2m1ccbypjgnHYhD_OyqKfwHnr3hOWMpVuM/edit?gid=0#gid=0)
 
 ## Trying today
-1) Create a separate `.ipynb` notebook for model training and fine-tuning; - `Done`
-2) Refresh the details about XGBoost algorithm; - `Done`
+1) Fine-tune XGBoost on Kaggle; - `Done`
+2) Submit to Kaggle; - `Done`
 
 ## What's next? `TODO`
-1) Fine-tune XGBoost on Kaggle;
-2) Submit to Kaggle;
+1) Use the whole dataset for model training;
+2) Submit to Kaggle and see the difference;
 3) Try Min-Max scaling and Robust scaling.
