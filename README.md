@@ -9,6 +9,7 @@
 2) Submit to Kaggle and check the difference. - `Done`
 
 ## What's next? `TODO`
-1) Try different approach (Deep learning architectures);
-2) Investigate contestants' code;
-3) Try Min-Max scaling and Robust scaling.
+1) Start reading book about XGBoost and Ensemble learning;
+2) Try different approach (Deep learning architectures);
+3) Investigate contestants' code;
+4) Try Min-Max scaling and Robust scaling.
